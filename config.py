@@ -1,0 +1,1 @@
+DATABASE_URI = 'postgresql://postgres:123@localhost:5432/logs_db'
